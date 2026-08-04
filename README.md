@@ -1,4 +1,4 @@
-<h1 align="center">🐉 lovlyDev / experienced coder </h1>
+<h1 align="center">🐉 lovlyDev / TypeScript Enthusiast </h1>
 
 ###
 
