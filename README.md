@@ -58,12 +58,44 @@ A fast desktop IDE for React / Vite / TS: Monaco, **real LSP IntelliSense**, PTY
 
 ## 🛠️ Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="right"><b>Languages</b></td>
+<td>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnodejs%2Cvite%2Ctailwind%2Crust%2Ctauri%2Celectron%2Cthreejs%2Cpostgres%2Cnginx%2Cgithubactions&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=ts%2Creact%2Cnodejs%2Cvite%2Ctailwind%2Crust%2Ctauri%2Celectron%2Cthreejs%2Cpostgres%2Cnginx%2Cgithubactions&theme=light" alt="TypeScript, React, Node.js, Vite, Tailwind, Rust, Tauri, Electron, Three.js, PostgreSQL, Nginx, GitHub Actions" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Crust%2Cgo%2Ccpp%2Cpy%2Chtml%2Ccss&perline=11&theme=dark" />
+  <img height="40" src="https://skillicons.dev/icons?i=ts%2Cjs%2Crust%2Cgo%2Ccpp%2Cpy%2Chtml%2Ccss&perline=11&theme=light" alt="TypeScript, JavaScript, Rust, Go, C++, Python, HTML, CSS" />
 </picture>
-</div>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Frontend</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Csvelte%2Cvite%2Ctailwind%2Csass%2Cthreejs&perline=11&theme=dark" />
+  <img height="40" src="https://skillicons.dev/icons?i=react%2Cnextjs%2Csvelte%2Cvite%2Ctailwind%2Csass%2Cthreejs&perline=11&theme=light" alt="React, Next.js, Svelte, Vite, Tailwind CSS, Sass, Three.js" />
+</picture>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Backend &amp; desktop</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cprisma%2Cpostgres%2Cnginx%2Ctauri%2Celectron&perline=11&theme=dark" />
+  <img height="40" src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cprisma%2Cpostgres%2Cnginx%2Ctauri%2Celectron&perline=11&theme=light" alt="Node.js, Express, Prisma, PostgreSQL, Nginx, Tauri, Electron" />
+</picture>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Tools</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgithubactions%2Cdocker%2Cvscode%2Cvisualstudio%2Cvercel%2Cvitest%2Clinux%2Cwindows&perline=11&theme=dark" />
+  <img height="40" src="https://skillicons.dev/icons?i=git%2Cgithub%2Cgithubactions%2Cdocker%2Cvscode%2Cvisualstudio%2Cvercel%2Cvitest%2Clinux%2Cwindows&perline=11&theme=light" alt="Git, GitHub, GitHub Actions, Docker, VS Code, Visual Studio, Vercel, Vitest, Linux, Windows" />
+</picture>
+</td>
+</tr>
+</table>
 
 ## 📊 Activity
 
