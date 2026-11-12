@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm lovlyDev 👋
+<h1>Hey, I'm lovlyDev <img src="wave.gif" width="36" alt="👋" align="top" /></h1>
 
 <a href="https://lovlydev.ru">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=9666FF&center=true&vCenter=true&width=600&lines=I+build+developer+tools+that+ship.;Local-first+CAD+in+Rust+%2B+Three.js;Dependency+audits+for+JS+%2F+TS;A+Monaco+IDE+with+real+LSP" alt="I build developer tools that ship." />
