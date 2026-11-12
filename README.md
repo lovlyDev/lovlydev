@@ -1,60 +1,87 @@
-<h1 align="center">🐉 lovlyDev / TypeScript Enthusiast </h1>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+
+# Hey, I'm lovlyDev 👋
+
+<a href="https://lovlydev.ru">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=9666FF&center=true&vCenter=true&width=600&lines=I+build+developer+tools+that+ship.;Local-first+CAD+in+Rust+%2B+Three.js;Dependency+audits+for+JS+%2F+TS;A+Monaco+IDE+with+real+LSP" alt="I build developer tools that ship." />
+</a>
+
+**Full-stack TypeScript / Node.js developer** · Rust when it has to be fast · Kursk, Russia (UTC+3)
+
+[![Website](https://img.shields.io/badge/lovlydev.ru-9666ff?style=flat-square&logo=googlechrome&logoColor=white)](https://lovlydev.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lovlyswag)
+[![X](https://img.shields.io/badge/@whylovly__god-555?style=flat-square&logo=x&logoColor=white)](https://x.com/whylovly_god)
+
 </div>
 
-###
+## 🚀 What I'm building
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📐 [FormaCAD](https://github.com/lovlyDev/FormaCAD)
+A local CAD workspace where **you and AI edit the same model**. Feature history, exact OpenCascade geometry, STEP/STL/3MF export.
+
+[![release](https://img.shields.io/github/v/release/lovlyDev/FormaCAD?style=flat-square&color=9666ff&label=release)](https://github.com/lovlyDev/FormaCAD/releases/latest)
+[![site](https://img.shields.io/badge/formacad.ru-555?style=flat-square)](https://formacad.ru)
+
+<sub>Rust · Tauri · React · Three.js<br/>`winget install lovlyDev.FormaCAD`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+### 📦 [pkgWise](https://github.com/lovlyDev/pkgWise)
+**Know what you're installing.** Explainable dependency audit for JS/TS: transparent scores, OSV advisories, policy gates, SARIF for CI.
+
+[![npm](https://img.shields.io/npm/v/pkgwise?style=flat-square&color=9666ff&label=npm)](https://www.npmjs.com/package/pkgwise)
+[![license](https://img.shields.io/badge/license-MIT-555?style=flat-square)](https://github.com/lovlyDev/pkgWise)
+
+<sub>TypeScript · Node.js<br/>`npx pkgwise scan .`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ [BlinkCode](https://github.com/BlinkCodeOrg/BlinkCode)
+A fast desktop IDE for React / Vite / TS: Monaco, **real LSP IntelliSense**, PTY terminal, debugger, live preview.
+
+[![release](https://img.shields.io/github/v/release/BlinkCodeOrg/BlinkCode?style=flat-square&color=9666ff&label=release)](https://github.com/BlinkCodeOrg/BlinkCode/releases/latest)
+[![org](https://img.shields.io/badge/@BlinkCodeOrg-555?style=flat-square)](https://github.com/BlinkCodeOrg)
+
+<sub>Electron · React · TypeScript</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>Also: [Rewinder](https://github.com/lovlyDev/Rewinder) — restores Windows app states (Go) · [branchly](https://github.com/lovlyDev/branchly) — git safety net for beginners · [VANTIX](https://github.com/lovlyDev/VANTIX) — TON vanity-address generator on CPU & Vulkan</sub>
+
+## 🛠️ Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnodejs%2Cvite%2Ctailwind%2Crust%2Ctauri%2Celectron%2Cthreejs%2Cpostgres%2Cnginx%2Cgithubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts%2Creact%2Cnodejs%2Cvite%2Ctailwind%2Crust%2Ctauri%2Celectron%2Cthreejs%2Cpostgres%2Cnginx%2Cgithubactions&theme=light" alt="TypeScript, React, Node.js, Vite, Tailwind, Rust, Tauri, Electron, Three.js, PostgreSQL, Nginx, GitHub Actions" />
+</picture>
 </div>
 
-###
+## 📊 Activity
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=lovlydev&show_icons=true&hide_rank=true&hide=stars&count_private=true&hide_border=true&bg_color=00000000&title_color=9666ff&icon_color=9666ff&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=lovlydev&show_icons=true&hide_rank=true&hide=stars&count_private=true&hide_border=true&bg_color=00000000&title_color=7c4dff&icon_color=7c4dff&text_color=24292f" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lovlyDev&hide_border=true&background=00000000&ring=9666FF&fire=9666FF&currStreakLabel=9666FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=30363D" />
+  <img height="165" src="https://streak-stats.demolab.com?user=lovlyDev&hide_border=true&background=00000000&ring=7C4DFF&fire=7C4DFF&currStreakLabel=7C4DFF&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A&stroke=D0D7DE" alt="GitHub streak" />
+</picture>
 </div>
 
-###
-<div align="center"> 
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=lovlydev&number_format=long&show_icons=true&bg_color=0a0a0a&title_color=9666ff&icon_color=9666ff&border_color=1e1e1e&border_radius=8" />
-</div>
- 
 <div align="center">
-  <img align="center" src="https://count.getloli.com/get/@:lovlydev?theme=booru-lisu" /> 
+
+**Have a project in mind?** I take on web apps and sites (Vite + React, Node.js) — [write me on Telegram](https://t.me/lovlyswag).
+
+<img src="https://count.getloli.com/get/@:lovlydev?theme=booru-lisu" alt="profile views" />
+
 </div>
